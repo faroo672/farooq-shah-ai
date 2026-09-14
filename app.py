@@ -33,7 +33,7 @@ def get_mobile_editing_courses():
     * Poster & Certificate Designing
     """
 
-with gr.Blocks(theme=gr.themes.Soft()) as demo:
+with gr.Blocks() as demo:
     gr.Markdown("# 🚀 Farooq Shah AI & Educational Hub")
     gr.Markdown("Welcome to your interactive AI assistant and educational platform.")
     
